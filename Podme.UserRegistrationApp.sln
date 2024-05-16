@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Podme.UserRegistrationApp.Api", "Podme.UserRegistrationApp.Api\Podme.UserRegistrationApp.Api.csproj", "{E0317F57-F219-467E-9DF9-D775F3753279}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Podme.UserRegistrationApp.Api.Entitites", "Podme.userRegistrationApp.Entitites\Podme.UserRegistrationApp.Api.Entitites.csproj", "{42862164-E82E-40B8-A1FC-B790FD4DBD17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Podme.UserRegistrationApp.Api.Repositories", "Podme.UserRegistrationApp.Api.Repositories\Podme.UserRegistrationApp.Api.Repositories.csproj", "{3DC8E70C-C3F4-4AAB-AAD7-B010B67EBE8F}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Podme.UserRegistrationApp.Client", "Podme.UserRegistrationApp.Client\Podme.UserRegistrationApp.Client.esproj", "{93F1C3D0-A189-4521-8D7F-4BCE65241E92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Podme.UserRegistrationApp.Api.Utils", "Podme.UserRegistrationApp.Utils\Podme.UserRegistrationApp.Api.Utils.csproj", "{4CF2299F-EF41-4483-B3D5-7F0F87267F93}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Podme.UserRegistrationApp.Api.Models", "Podme.userRegistrationApp.Api.Models\Podme.UserRegistrationApp.Api.Models.csproj", "{CAFA6E00-9B9C-4E95-B61E-C2F5BA599B78}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Podme.UserRegistrationApp.Api.ModelValidators", "Podme.UserRegistrationApp.Api.ModelValidators\Podme.UserRegistrationApp.Api.ModelValidators.csproj", "{B0280D59-2C91-4B65-90DA-FE69F16B317D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podme.UserRegistrationApp.Api.UnitTests", "Podme.UserRegistrationApp.Api.UnitTests\Podme.UserRegistrationApp.Api.UnitTests.csproj", "{F1655FEE-A653-4641-B9C5-5FCB1A56B7A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podme.UserRegistrationApp.Api.ControllerTests", "Podme.UserRegistrationApp.Api.ControllerTest\Podme.UserRegistrationApp.Api.ControllerTests.csproj", "{62FA8FD6-8C19-4F92-9674-000F8289AB2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0317F57-F219-467E-9DF9-D775F3753279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0317F57-F219-467E-9DF9-D775F3753279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0317F57-F219-467E-9DF9-D775F3753279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0317F57-F219-467E-9DF9-D775F3753279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42862164-E82E-40B8-A1FC-B790FD4DBD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42862164-E82E-40B8-A1FC-B790FD4DBD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42862164-E82E-40B8-A1FC-B790FD4DBD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42862164-E82E-40B8-A1FC-B790FD4DBD17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC8E70C-C3F4-4AAB-AAD7-B010B67EBE8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC8E70C-C3F4-4AAB-AAD7-B010B67EBE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC8E70C-C3F4-4AAB-AAD7-B010B67EBE8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC8E70C-C3F4-4AAB-AAD7-B010B67EBE8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93F1C3D0-A189-4521-8D7F-4BCE65241E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F1C3D0-A189-4521-8D7F-4BCE65241E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93F1C3D0-A189-4521-8D7F-4BCE65241E92}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{93F1C3D0-A189-4521-8D7F-4BCE65241E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93F1C3D0-A189-4521-8D7F-4BCE65241E92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93F1C3D0-A189-4521-8D7F-4BCE65241E92}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4CF2299F-EF41-4483-B3D5-7F0F87267F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF2299F-EF41-4483-B3D5-7F0F87267F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF2299F-EF41-4483-B3D5-7F0F87267F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF2299F-EF41-4483-B3D5-7F0F87267F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAFA6E00-9B9C-4E95-B61E-C2F5BA599B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFA6E00-9B9C-4E95-B61E-C2F5BA599B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFA6E00-9B9C-4E95-B61E-C2F5BA599B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFA6E00-9B9C-4E95-B61E-C2F5BA599B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0280D59-2C91-4B65-90DA-FE69F16B317D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0280D59-2C91-4B65-90DA-FE69F16B317D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0280D59-2C91-4B65-90DA-FE69F16B317D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0280D59-2C91-4B65-90DA-FE69F16B317D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1655FEE-A653-4641-B9C5-5FCB1A56B7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1655FEE-A653-4641-B9C5-5FCB1A56B7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1655FEE-A653-4641-B9C5-5FCB1A56B7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1655FEE-A653-4641-B9C5-5FCB1A56B7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62FA8FD6-8C19-4F92-9674-000F8289AB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FA8FD6-8C19-4F92-9674-000F8289AB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FA8FD6-8C19-4F92-9674-000F8289AB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FA8FD6-8C19-4F92-9674-000F8289AB2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7962E5AF-8308-42FF-85E2-ECA3F880BC6E}
+	EndGlobalSection
+EndGlobal

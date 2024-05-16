@@ -1,0 +1,11 @@
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.userRegistrationApp.Api.Models\bin\Debug\net6.0\Podme.UserRegistrationApp.Api.Models.deps.json
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.userRegistrationApp.Api.Models\bin\Debug\net6.0\Podme.UserRegistrationApp.Api.Models.dll
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.userRegistrationApp.Api.Models\bin\Debug\net6.0\Podme.UserRegistrationApp.Api.Models.pdb
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.userRegistrationApp.Api.Models\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.userRegistrationApp.Api.Models\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Models.AssemblyInfoInputs.cache
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.userRegistrationApp.Api.Models\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Models.AssemblyInfo.cs
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.userRegistrationApp.Api.Models\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Models.csproj.CoreCompileInputs.cache
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.userRegistrationApp.Api.Models\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Models.dll
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.userRegistrationApp.Api.Models\obj\Debug\net6.0\refint\Podme.UserRegistrationApp.Api.Models.dll
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.userRegistrationApp.Api.Models\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Models.pdb
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.userRegistrationApp.Api.Models\obj\Debug\net6.0\ref\Podme.UserRegistrationApp.Api.Models.dll

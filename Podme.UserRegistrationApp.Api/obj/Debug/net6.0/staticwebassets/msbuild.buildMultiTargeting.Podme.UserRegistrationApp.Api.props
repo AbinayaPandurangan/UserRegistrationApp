@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Podme.UserRegistrationApp.Api.props" />
+</Project>

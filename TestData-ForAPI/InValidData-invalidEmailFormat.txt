@@ -1,0 +1,7 @@
+{
+  "userName": "Jane",
+  "dob": "1987-05-12",
+  "email": "string",
+  "phoneNo": "987654321",
+  "genderId": 2
+}

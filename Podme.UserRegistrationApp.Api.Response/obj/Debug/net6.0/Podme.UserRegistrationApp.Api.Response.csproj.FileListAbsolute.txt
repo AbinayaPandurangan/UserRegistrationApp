@@ -1,0 +1,11 @@
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Response\bin\Debug\net6.0\Podme.UserRegistrationApp.Api.Response.deps.json
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Response\bin\Debug\net6.0\Podme.UserRegistrationApp.Api.Response.dll
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Response\bin\Debug\net6.0\Podme.UserRegistrationApp.Api.Response.pdb
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Response\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Response.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Response\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Response.AssemblyInfoInputs.cache
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Response\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Response.AssemblyInfo.cs
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Response\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Response.csproj.CoreCompileInputs.cache
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Response\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Response.dll
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Response\obj\Debug\net6.0\refint\Podme.UserRegistrationApp.Api.Response.dll
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Response\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Response.pdb
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Response\obj\Debug\net6.0\ref\Podme.UserRegistrationApp.Api.Response.dll

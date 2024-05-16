@@ -1,0 +1,15 @@
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.ModelValidators\bin\Debug\net6.0\Podme.UserRegistrationApp.Api.ModelValidators.deps.json
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.ModelValidators\bin\Debug\net6.0\Podme.UserRegistrationApp.Api.ModelValidators.dll
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.ModelValidators\bin\Debug\net6.0\Podme.UserRegistrationApp.Api.ModelValidators.pdb
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.ModelValidators\bin\Debug\net6.0\Podme.UserRegistrationApp.Api.Models.dll
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.ModelValidators\bin\Debug\net6.0\Podme.UserRegistrationApp.Api.Models.pdb
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.ModelValidators\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.ModelValidators.csproj.AssemblyReference.cache
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.ModelValidators\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.ModelValidators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.ModelValidators\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.ModelValidators.AssemblyInfoInputs.cache
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.ModelValidators\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.ModelValidators.AssemblyInfo.cs
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.ModelValidators\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.ModelValidators.csproj.CoreCompileInputs.cache
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.ModelValidators\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.ModelValidators.csproj.CopyComplete
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.ModelValidators\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.ModelValidators.dll
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.ModelValidators\obj\Debug\net6.0\refint\Podme.UserRegistrationApp.Api.ModelValidators.dll
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.ModelValidators\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.ModelValidators.pdb
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.ModelValidators\obj\Debug\net6.0\ref\Podme.UserRegistrationApp.Api.ModelValidators.dll

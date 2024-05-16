@@ -1,0 +1,459 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api\\Podme.UserRegistrationApp.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.userRegistrationApp.Api.Models\\Podme.UserRegistrationApp.Api.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.userRegistrationApp.Api.Models\\Podme.UserRegistrationApp.Api.Models.csproj",
+        "projectName": "Podme.UserRegistrationApp.Api.Models",
+        "projectPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.userRegistrationApp.Api.Models\\Podme.UserRegistrationApp.Api.Models.csproj",
+        "packagesPath": "C:\\Users\\Abinaya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.userRegistrationApp.Api.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Abinaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api.ModelValidators\\Podme.UserRegistrationApp.Api.ModelValidators.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api.ModelValidators\\Podme.UserRegistrationApp.Api.ModelValidators.csproj",
+        "projectName": "Podme.UserRegistrationApp.Api.ModelValidators",
+        "projectPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api.ModelValidators\\Podme.UserRegistrationApp.Api.ModelValidators.csproj",
+        "packagesPath": "C:\\Users\\Abinaya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api.ModelValidators\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Abinaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.userRegistrationApp.Api.Models\\Podme.UserRegistrationApp.Api.Models.csproj": {
+                "projectPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.userRegistrationApp.Api.Models\\Podme.UserRegistrationApp.Api.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api.Repositories\\Podme.UserRegistrationApp.Api.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api.Repositories\\Podme.UserRegistrationApp.Api.Repositories.csproj",
+        "projectName": "Podme.UserRegistrationApp.Api.Repositories",
+        "projectPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api.Repositories\\Podme.UserRegistrationApp.Api.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Abinaya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Abinaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.userRegistrationApp.Entitites\\Podme.UserRegistrationApp.Api.Entitites.csproj": {
+                "projectPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.userRegistrationApp.Entitites\\Podme.UserRegistrationApp.Api.Entitites.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api\\Podme.UserRegistrationApp.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api\\Podme.UserRegistrationApp.Api.csproj",
+        "projectName": "Podme.UserRegistrationApp.Api",
+        "projectPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api\\Podme.UserRegistrationApp.Api.csproj",
+        "packagesPath": "C:\\Users\\Abinaya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Abinaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.userRegistrationApp.Api.Models\\Podme.UserRegistrationApp.Api.Models.csproj": {
+                "projectPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.userRegistrationApp.Api.Models\\Podme.UserRegistrationApp.Api.Models.csproj"
+              },
+              "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api.Repositories\\Podme.UserRegistrationApp.Api.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api.Repositories\\Podme.UserRegistrationApp.Api.Repositories.csproj"
+              },
+              "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Utils\\Podme.UserRegistrationApp.Api.Utils.csproj": {
+                "projectPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Utils\\Podme.UserRegistrationApp.Api.Utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.userRegistrationApp.Entitites\\Podme.UserRegistrationApp.Api.Entitites.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.userRegistrationApp.Entitites\\Podme.UserRegistrationApp.Api.Entitites.csproj",
+        "projectName": "Podme.UserRegistrationApp.Api.Entitites",
+        "projectPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.userRegistrationApp.Entitites\\Podme.UserRegistrationApp.Api.Entitites.csproj",
+        "packagesPath": "C:\\Users\\Abinaya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.userRegistrationApp.Entitites\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Abinaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.29, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Utils\\Podme.UserRegistrationApp.Api.Utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Utils\\Podme.UserRegistrationApp.Api.Utils.csproj",
+        "projectName": "Podme.UserRegistrationApp.Api.Utils",
+        "projectPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Utils\\Podme.UserRegistrationApp.Api.Utils.csproj",
+        "packagesPath": "C:\\Users\\Abinaya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Utils\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Abinaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api.ModelValidators\\Podme.UserRegistrationApp.Api.ModelValidators.csproj": {
+                "projectPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api.ModelValidators\\Podme.UserRegistrationApp.Api.ModelValidators.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,144 @@
+.App {
+  text-align: center;
+}
+/* for mobile */
+@media (max-width: 440px) {
+  .container {
+    display: grid;
+    margin: 1rem;
+  }
+  .formcontainer {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+  }
+}
+
+/* for tablets */
+@media (min-width: 441px) and (max-width: 1279px) {
+  .container {
+    max-width: 90vw;
+    display: grid;
+    margin: auto;
+  }
+  .formcontainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+  }
+}
+
+/* for desktops */
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1200px;
+    display: grid;
+    margin: auto;
+  }
+  .formcontainer {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: auto;
+  }
+}
+
+.cartitle {
+  font-family: "Karla", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0.5rem;
+}
+
+.buttontxt {
+  font-family: "Karla", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+.para {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: expanded;
+}
+
+.para.message {
+  margin: 0;
+}
+.para.message.error {
+  color: red;
+}
+
+.inputBox {
+  height: 40px;
+  width: 100%;
+  border-radius: 16px;
+  background-color: #edefee;
+  border-style: none;
+  margin: 0.5rem;
+  padding: 0 1rem;
+  cursor: pointer;
+}
+
+.radioButtons {
+  display: grid;
+
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin-bottom: 1rem;
+}
+.button {
+  width: 400px;
+  height: 50px;
+  text-align: center;
+  border-radius: 16px;
+  box-shadow: none;
+  margin: 2rem 0 2rem 0;
+  border-style: none;
+  cursor: pointer;
+  box-shadow: 1px 1px 4px #495e5757;
+}
+.button.primary:hover {
+  background-color: #ee9972;
+}
+
+.button.primary:disabled {
+  color: gray !important;
+  cursor: not-allowed;
+  background-color: #f4ce14;
+}
+.button.primary {
+  background-color: #f4ce14;
+  color: #000;
+}
+
+.loader {
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  margin: auto;
+  padding: auto;
+  margin-top: 25%;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

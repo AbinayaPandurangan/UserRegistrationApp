@@ -1,0 +1,136 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "FluentValidation/11.9.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Podme.UserRegistrationApp.Api.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Podme.UserRegistrationApp.Api.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Podme.UserRegistrationApp.Api.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FluentValidation/11.9.1": {
+      "sha512": "C+PqISSMdlOZZJx0Hx25atW32tv4vbpsaiQB+PLjK+ZGLzOFuHl1fUJ3Lny77mIZ31ZtYtNG0JgUjxa3wwLsWg==",
+      "type": "package",
+      "path": "fluentvalidation/11.9.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.9.1.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
+        "lib/net8.0/FluentValidation.dll",
+        "lib/net8.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
+    "Podme.UserRegistrationApp.Api.Models/1.0.0": {
+      "type": "project",
+      "path": "../Podme.userRegistrationApp.Api.Models/Podme.UserRegistrationApp.Api.Models.csproj",
+      "msbuildProject": "../Podme.userRegistrationApp.Api.Models/Podme.UserRegistrationApp.Api.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "FluentValidation >= 11.9.1",
+      "Podme.UserRegistrationApp.Api.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Abinaya\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api.ModelValidators\\Podme.UserRegistrationApp.Api.ModelValidators.csproj",
+      "projectName": "Podme.UserRegistrationApp.Api.ModelValidators",
+      "projectPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api.ModelValidators\\Podme.UserRegistrationApp.Api.ModelValidators.csproj",
+      "packagesPath": "C:\\Users\\Abinaya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api.ModelValidators\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Abinaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.userRegistrationApp.Api.Models\\Podme.UserRegistrationApp.Api.Models.csproj": {
+              "projectPath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.userRegistrationApp.Api.Models\\Podme.UserRegistrationApp.Api.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "FluentValidation": {
+            "target": "Package",
+            "version": "[11.9.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

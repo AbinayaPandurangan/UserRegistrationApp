@@ -1,0 +1,17 @@
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Repositories\bin\Debug\net6.0\Podme.UserRegistrationApp.Api.Repositories.deps.json
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Repositories\bin\Debug\net6.0\Podme.UserRegistrationApp.Api.Repositories.runtimeconfig.json
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Repositories\bin\Debug\net6.0\Podme.UserRegistrationApp.Api.Repositories.dll
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Repositories\bin\Debug\net6.0\Podme.UserRegistrationApp.Api.Repositories.pdb
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Repositories\bin\Debug\net6.0\Podme.UserRegistrationApp.Api.Entitites.dll
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Repositories\bin\Debug\net6.0\Podme.UserRegistrationApp.Api.Entitites.pdb
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Repositories\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Repositories.csproj.AssemblyReference.cache
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Repositories\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Repositories\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Repositories.AssemblyInfoInputs.cache
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Repositories\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Repositories.AssemblyInfo.cs
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Repositories\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Repositories\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Repositories.csproj.CopyComplete
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Repositories\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Repositories.dll
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Repositories\obj\Debug\net6.0\refint\Podme.UserRegistrationApp.Api.Repositories.dll
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Repositories\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Repositories.pdb
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Repositories\obj\Debug\net6.0\Podme.UserRegistrationApp.Api.Repositories.genruntimeconfig.cache
+C:\Users\Abinaya\Desktop\Podme.UserRegistrationApp\Podme.UserRegistrationApp.Api.Repositories\obj\Debug\net6.0\ref\Podme.UserRegistrationApp.Api.Repositories.dll

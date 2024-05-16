@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dDU+m6QLGY6aCoBg/ZtUYfjZBQuNIccpdyDSzszc1ff/IH/X3eK3S6DlMK6VymFR8WUadsTwOucG7oaHjLsTsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abinaya\\Desktop\\Podme.UserRegistrationApp\\Podme.UserRegistrationApp.Api.ModelValidators\\Podme.UserRegistrationApp.Api.ModelValidators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abinaya\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

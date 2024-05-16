@@ -1,0 +1,1 @@
+2024-05-14 00:02:28.440 +02:00 [INF] Entity Framework Core 6.0.29 initialized 'DataContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.29' with options: MigrationsAssembly=Podme.UserRegistrationApp.Api 
